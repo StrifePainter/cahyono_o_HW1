@@ -23,8 +23,10 @@ Follow my art page on [instagram](https://www.google.com/url?sa=t&source=web&rct
 ## Kathleen Cuzzocrea
 
 ### About Me 
-I’m 20 years old and born and raised here in London. I'm taking IDP because I've always been interested in programming and design and I'm looking forward to learning more about the digital media industry.
+I’m 20 years old and born and raised here in London. I'm taking IDP because I've always been interested in programming and design, and I'm looking forward to learning more about the digital media industry!
 
-### Fun Facts About Me :D
-* I'm a triplet
-* I love the colour green
+### Fun Facts :D
+* I'm a triplet.
+* I love the colour green.
+* I like listening to rock and hiphop music. 🎧
+* I **love** video games! Some of my favourites are Fire Emblem: Three Houses, Persona 4 Golden, and Mario Kart Wii. 👾
