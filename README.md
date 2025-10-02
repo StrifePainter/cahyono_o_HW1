@@ -21,3 +21,10 @@ I am a Chinese Indonesian artist with a Bachelors in Animation. I will turn 23 o
 Follow my art page on [instagram](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/strifepainter/%3Fhl%3Den&ved=2ahUKEwjThpCUg4aQAxUMv4kEHawEESgQFnoECB0QAQ&usg=AOvVaw1lNdX3q75uMD2qAsMdNOBT)!
 
 ## Kathleen Cuzzocrea
+
+### About Me 
+I’m 20 years old and born and raised here in London. I'm taking IDP because I've always been interested in programming and design and I'm looking forward to learning more about the digital media industry.
+
+### Fun Facts About Me :D
+* I'm a triplet
+* I love the colour green
