@@ -32,3 +32,17 @@ I’m 20 years old and born and raised here in London. I'm taking IDP because I'
 * I love the colour green.
 * I like listening to rock and hiphop music. 🎧
 * I **love** video games! Some of my favourites are Fire Emblem: Three Houses, Persona 4 Golden, and Mario Kart Wii. 👾
+
+## Installation
+
+## Usage
+
+## Contributing
+
+## History
+
+## Credits 
+Olivia Cahyono and Kathleen Cuzzocrea
+
+## License
+MIT License
