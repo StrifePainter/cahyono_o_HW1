@@ -22,6 +22,8 @@ Follow my art page on [instagram](https://www.google.com/url?sa=t&source=web&rct
 
 ## Kathleen Cuzzocrea
 
+![alt text](images/kcuzzo.jpeg)
+
 ### About Me 
 I’m 20 years old and born and raised here in London. I'm taking IDP because I've always been interested in programming and design, and I'm looking forward to learning more about the digital media industry!
 
