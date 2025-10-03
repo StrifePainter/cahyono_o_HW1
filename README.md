@@ -1,6 +1,8 @@
 # cahyono_o_HW1
+## KATHLIVIA 4 LIFE
 This repo is for Homework #1 in Multimedia Authoring 1
 
+=======
 ## Olivia Cahyono
 Hello! :D
 
@@ -23,7 +25,36 @@ My specialty is illustrations, especially character art. Here is my mascot, Frib
 ![alt text](images/Fribbit%20and%20Bee%20mount.png)
 
 ### Social Media
+
 Follow my art page on [Instagram](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/strifepainter/%3Fhl%3Den&ved=2ahUKEwjThpCUg4aQAxUMv4kEHawEESgQFnoECB0QAQ&usg=AOvVaw1lNdX3q75uMD2qAsMdNOBT)! You can also follow me on [Reddit](https://www.reddit.com/user/StrifePainter/) to see my art for Fribbit's journey c:
 
 ![alt text](images/wishiwashi-ezgif.com-resize.gif)
 ![alt text](images/MissHoneyandFribbitFlying-ezgif.com-resize.gif)
+
+## Kathleen Cuzzocrea
+
+![alt text](images/kcuzzo.jpeg)
+
+### About Me 
+I’m 20 years old and born and raised here in London. I'm taking IDP because I've always been interested in programming and design, and I'm looking forward to learning more about the digital media industry!
+
+### Fun Facts :D
+* I'm a triplet.
+* I love the colour green.
+* I like listening to rock and hiphop music. 🎧
+* I **love** video games! Some of my favourites are Fire Emblem: Three Houses, Persona 4 Golden, and Mario Kart Wii. 👾
+
+## Installation
+
+## Usage
+
+## Contributing
+
+## History
+
+## Credits 
+Olivia Cahyono and Kathleen Cuzzocrea
+
+## License
+MIT License
+
