@@ -3,7 +3,7 @@ This repo is for Homework #1 in Multimedia Authoring 1
 
 ## Olivia Cahyono
 Hello! :D
- Testing
+
 ### About Me
 I am a Chinese Indonesian artist with a Bachelors in Animation. I will turn 23 on October 30th and looking towards the digital media field.
 
@@ -14,6 +14,7 @@ I am a Chinese Indonesian artist with a Bachelors in Animation. I will turn 23 o
 * My favourite video game is Hades; I enjoy roguelikes and roguelites! My dream is to work in indie games.
 
 ### My Art
+My specialty is illustrations, especially character art. Here is my mascot, Fribbit with his giant bee animal companion, Miss Honey!
 
 ### Social Media
 Follow my art page on [instagram](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/strifepainter/%3Fhl%3Den&ved=2ahUKEwjThpCUg4aQAxUMv4kEHawEESgQFnoECB0QAQ&usg=AOvVaw1lNdX3q75uMD2qAsMdNOBT)!
