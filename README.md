@@ -23,6 +23,7 @@ My specialty is illustrations, especially character art. Here is my mascot, Frib
 ![alt text](images/Fribbit%20and%20Bee%20mount.png)
 
 ### Social Media
-Follow my art page on [instagram](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/strifepainter/%3Fhl%3Den&ved=2ahUKEwjThpCUg4aQAxUMv4kEHawEESgQFnoECB0QAQ&usg=AOvVaw1lNdX3q75uMD2qAsMdNOBT)!
+Follow my art page on [Instagram](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/strifepainter/%3Fhl%3Den&ved=2ahUKEwjThpCUg4aQAxUMv4kEHawEESgQFnoECB0QAQ&usg=AOvVaw1lNdX3q75uMD2qAsMdNOBT)! You can also follow me on [Reddit](https://www.reddit.com/user/StrifePainter/) to see my art for Fribbit's journey c:
 
-![alt text](images/wishiwashi.gif)
+![alt text](images/wishiwashi-ezgif.com-resize.gif)
+![alt text](images/MissHoneyandFribbitFlying-ezgif.com-resize.gif)
